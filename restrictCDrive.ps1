@@ -1,0 +1,1 @@
+icacls C:\ /remove "NT AUTHORITY\Authenticated Users"
